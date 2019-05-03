@@ -1,0 +1,5 @@
+main threw an exception:
+java.lang.NullPointerException
+	at de.gurkenlabs.litiengine.GameWindow.<init>(GameWindow.java:57)
+	at de.gurkenlabs.litiengine.Game.init(Game.java:473)
+	at Engine.main(Engine.java:8)
